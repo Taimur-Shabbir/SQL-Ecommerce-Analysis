@@ -40,7 +40,7 @@ order by total_profit desc
 # -------------------------------------------------------------------------------
 
 # Q3) What products are high margin and which ones are low margin?
-# let's define 'high margin' as cases where thr price minus the cost is greater than 5, and 'low margin'
+# let's define 'high margin' as cases where the price minus the cost is greater than 5, and 'low margin'
 # otherwise
 
 select product_name, round(product_price-product_cost, 2) as margin,
