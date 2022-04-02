@@ -7,9 +7,11 @@ up in inventory could be managed better and more.
 
 ## Data Source:
 
-The data is obtained from [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/toy-sales?select=stores.csv). There are 4 tables:
+The data is obtained from [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/toy-sales?select=stores.csv)
 
 ## Tables and Observations
+
+There are 4 tables:
 
 1. sales_toys: contains sales information - 829262 rows
 2. products: contains information on products - 35 rows
