@@ -3,6 +3,8 @@ This analysis is conducted on a Mexican E-commerce store called Maven Toys and u
 and better inform future business decisions. These may range from learning about things such as which store to promote, which products tend to perform better in some months compared to others, whether or not money tied
 up in inventory could be managed better and more.
 
+An easy-to-read version of this with all queries, visualisations and interpretations can be found [here](https://bit.ly/3z9HeNN)
+
 # Data
 
 ## Data Source:
