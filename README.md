@@ -41,7 +41,3 @@ A few questions this analysis aims to answer are:
 - Are older stores able to incorporate e-commerce technology as well as their newer counterparts, or is there a possible problem of digitisation?
 - In which cities is Maven Toys most successful?
 
-# Visualisation
-
-- A few queries have been visualised and collated as a [Tableau](https://public.tableau.com/app/profile/taimur.shabbir/viz/E-CommerceInProgress/Dashboard1) dashboard. This can be found at: https://public.tableau.com/app/profile/taimur.shabbir/viz/E-CommerceInProgress/Dashboard1
-
