@@ -1,7 +1,5 @@
 # Introduction
-This analysis is conducted on a Mexican E-commerce store called Maven Toys and uses SQL and Tableau for querying the data and visualisation, respectively. The purpose of this is to extract insights that can shed light on current business performance
-and better inform future business decisions. These may range from learning about things such as which store to promote, which products tend to perform better in some months compared to others, whether or not money tied
-up in inventory could be managed better and more.
+This analysis is conducted on a Mexican E-commerce store called Maven Toys and uses SQL and Tableau for querying the data and visualisation, respectively. The purpose of this is to extract insights that can shed light on current business performance and better inform future business decisions. These may range from learning about things such as which store to promote, which products tend to perform better in some months compared to others, whether or not money tied up in inventory could be managed better and more.
 
 An easy-to-read version of this with all queries, visualisations and interpretations can be found [here](https://bit.ly/3z9HeNN)
 
@@ -36,7 +34,9 @@ The following shows the table, the number of columns it has and a few of the col
 A few questions this analysis aims to answer are:
 
 - Which products and product categories are most profitable?
+- Is there any relationship between value of stock tied up and revenue by store?
 - Do high margin products make more profit or do low margin ones do so?
+- Do certain products categories perform better (as measured by profit) in different stores? Or are the same product categories most profitable across all stores, generally speaking?
 - Is there a seasonality aspect to sales? If so, what is the magnitude of it?
 - Are older stores able to incorporate e-commerce technology as well as their newer counterparts, or is there a possible problem of digitisation?
 - In which cities is Maven Toys most successful?
