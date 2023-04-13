@@ -3,6 +3,8 @@ This analysis is conducted on a Mexican E-commerce store called Maven Toys and u
 
 An easy-to-read version of this with all queries, visualisations and interpretations can be found [here](https://bit.ly/3z9HeNN)
 
+A dashboard can be [found](https://github.com/Taimur-Shabbir/SQL-Ecommerce-Analysis/blob/main/Maven%20Toys%20Dashboard.png) in this repository
+
 # Data
 
 ## Data Source:
